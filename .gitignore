@@ -1,0 +1,8 @@
+YOLOV3/yolov3.data-00000-of-00001
+YOLOV3/yolov3.index
+YOLOV3/checkpoint
+
+YOLOV3/data/detection/
+
+YOLOV3/data/dataset/jpgs
+YOLOV3/data/dataset/xml_annotations
